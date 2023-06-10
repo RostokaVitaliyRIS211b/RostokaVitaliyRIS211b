@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### </a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZmZjljNWFjNmUzN2ViYjczYmEzNWJjZjQ1NWJmODczZDRiNThhZCZjdD1z/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> My stats
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=
-RostokaVitaliyRIS211b4&show_icons=true&theme=merko" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-RostokaVitaliyRIS211b&layout=compact&theme=radical" /></a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RostokaVitaliyRIS211b&show_icons=true&theme=merko" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RostokaVitaliyRIS211b&layout=compact&theme=radical" /></a> |
