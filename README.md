@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### </a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZmZjljNWFjNmUzN2ViYjczYmEzNWJjZjQ1NWJmODczZDRiNThhZCZjdD1z/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> My stats
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RostokaVitaliyRIS211b&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+<a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RostokaVitaliyRIS211b&show_icons=true&theme=dark"
   />
-</picture>
+</a>
