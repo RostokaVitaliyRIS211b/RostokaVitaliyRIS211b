@@ -19,4 +19,4 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api?username=RostokaVitaliyRIS211b&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-<picture>
+</picture>
